@@ -6,7 +6,7 @@ NDI enables reliable IP video production with capture, routing, monitoring, and 
 
 ## How NDI Tools Connects Video Workflows
 
-![Banner Placeholder](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHxjbPRz1wYfTECnJP4qn-UOZjedrlWqi0RQ&s)
+![Banner Placeholder](https://wavepart.nl/wp-content/uploads/2019/12/nditv-tools-logo.png)
 
 Download NDI Tools to route high-quality video, audio, and metadata across your network for live production, streaming, and collaboration. Built for creators using ndi tools obs workflows, it helps connect cameras, apps, and displays with flexible IP-based media utilities today.
 
